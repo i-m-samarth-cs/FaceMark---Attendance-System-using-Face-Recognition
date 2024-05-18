@@ -1,0 +1,11 @@
+About
+It is an Machine Learning based Attendance System using Face Recognition it is made in Python Language it involves different datasets of the user for marking attendance![WhatsApp Image 2023-03-22 at 12 25 47 AM](https://github.com/i-m-samarth-cs/FaceMark---Attendance-System-using-Face-Recognition/assets/156545091/2ab7f6a4-84c5-4a6d-916f-89fbb2540ae5)
+![WhatsApp Image 2023-03-22 at 12 25 47 AM (1)](https://github.com/i-m-samarth-cs/FaceMark---Attendance-System-using-Face-Recognition/assets/156545091/e926a019-a37f-4f58-8b82-d5d7c16ceb69)
+![WhatsApp Image 2023-03-22 at 12 25 46 AM](https://github.com/i-m-samarth-cs/FaceMark---Attendance-System-using-Face-Recognition/assets/156545091/2994b91a-6dac-4e2b-9b3b-bc76cdf2553e)
+![WhatsApp Image 2023-03-22 at 12 25 46 AM (1)](https://github.com/i-m-samarth-cs/FaceMark---Attendance-System-using-Face-Recognition/assets/156545091/eeefc828-9cbb-4867-ab8b-ad489677df45)
+![ssw](https://github.com/i-m-samarth-cs/FaceMark---Attendance-System-using-Face-Recognition/assets/156545091/eee8bed8-5724-4314-a496-e5ad1469750a)
+![register](https://github.com/i-m-samarth-cs/FaceMark---Attendance-System-using-Face-Recognition/assets/156545091/53233248-5641-443b-a7b5-1a44e82f5c24)
+![database](https://github.com/i-m-samarth-cs/FaceMark---Attendance-System-using-Face-Recognition/assets/156545091/98467f0a-3ba5-4188-92b2-7be7dfeaeb94)
+![data](https://github.com/i-m-samarth-cs/FaceMark---Attendance-System-using-Face-Recognition/assets/156545091/eb785da7-2d32-41fe-84fd-dc39e1867cad)
+![csv](https://github.com/i-m-samarth-cs/FaceMark---Attendance-System-using-Face-Recognition/assets/156545091/92f3c3e8-7fa6-4c05-8e16-8ff2bfe393dc)
+![attendance](https://github.com/i-m-samarth-cs/FaceMark---Attendance-System-using-Face-Recognition/assets/156545091/feb86368-01b7-4bbf-a5f9-8cb10fbe47e9)
